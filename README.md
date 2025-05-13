@@ -1,3 +1,6 @@
+[![CodeQL Advanced](https://github.com/nodoubtz/openai-realtime-agents/actions/workflows/codeql.yml/badge.svg)](https://github.com/nodoubtz/openai-realtime-agents/actions/workflows/codeql.yml)
+
+
 # OpenAI Realtime Agents
 
 A repository designed for implementing realtime agent systems powered by OpenAI technologies. This branch (`Nodoubtz`) focuses on [insert specific focus or features of the branch].
